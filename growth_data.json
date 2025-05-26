@@ -1,0 +1,34 @@
+{
+    "entries": [
+        {
+            "id": "72e87448-1bdb-421b-9536-45b172b535ed",
+            "date": "2025-04-21",
+            "challenge": "How to make python applications",
+            "learning": "I learned a lot about python and using it's library and deploying app on streamlit."
+        },
+        {
+            "id": "b0eea436-e0f3-40aa-806c-e5a8538b2347",
+            "date": "2025-05-04",
+            "challenge": "How to run application on streamlit",
+            "learning": "How to deploy it on streamlit"
+        }
+    ],
+    "goals": [
+        {
+            "id": "1a05b8e4-bd94-4e34-a2e9-ee0be03bc59f",
+            "date": "2025-04-21",
+            "goal": "Learn python",
+            "description": "I want to learn python and it's built-in features to make lots of projects.",
+            "deadline": "2025-04-30"
+        },
+        {
+            "id": "5b27338e-334b-4a21-85c7-6b58ceba1670",
+            "date": "2025-05-04",
+            "goal": "Learning Python!",
+            "description": "I want to learn python's basic and advanced level coding",
+            "deadline": "2025-06-06"
+        }
+    ],
+    "streak": 1,
+    "last_entry_date": "2025-05-04"
+}
