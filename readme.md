@@ -1,5 +1,3 @@
-# Assignment Comleted: 4 May 2025 (local Storage)
-
 # Growth Mindset Tracker Web App
 
 A simple, interactive web application built with Streamlit to help you develop and maintain a growth mindset through daily reflections and goal setting.
